@@ -13,7 +13,9 @@ color_codes = {
     "blue": "#2980b9",
     "blue2": "#30336b",
     "pink": "#be2edd",
-    "darkblue": "#130f40"
+    "darkblue": "#130f40",
+    "yellow": "#FFFF00",
+    "pistachio": "4DE83E"
 }
 
 SUPPORTED_COLORS = ",".join(color_codes.keys())
